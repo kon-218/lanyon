@@ -1,6 +1,6 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Konstantin Nomerotski
+tagline:             'Chemistry, Software, and other stuff'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 /lanyon
 baseurl:             ''
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Konstantin Nomerotski
+  url:               url
+  email:             kon50@hotmail.co.uk
 
 # Gems
 plugins:

@@ -4,26 +4,89 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Scroll to the end of the page for a surprise!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
+Final year student studying Masters in Chemistry with Scientific computing at the University of Bristol. Passionate about the increasing use of computing to streamline research and development in science. 
 
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## Education
+### The Cherwell school (secondary)
+#### General Certificate of Secondary Education (GCSE)
+12 GCSEs achieved with key grades below, rated 1-9
 
-Some fun facts about the setup of this project include:
+<table>
+  <tr>
+    <th style="width:300px">Subject</th>
+    <th style="width:100px">Grade</th>
+  </tr>
+  <tr>
+    <td>Math and Further Math</td>
+    <td>7, 7</td>
+  </tr>
+  <tr>
+    <td>English literature and language</td>
+    <td>9, 7</td>
+  </tr>
+  <tr>
+    <td>Sciences</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Russian</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Computer Science</td>
+    <td>9</td>
+  </tr>
+</table>
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+#### A Levels, rated A*-F
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+<table>
+  <tr>
+    <th style="width:300px">Subject</th>
+    <th style="width:100px">Grade</th>
+  </tr>
+  <tr>
+    <td>Math</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Further Math</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>Computer science</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Chemistry</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>Russian</td>
+    <td>A*</td>
+  </tr>
+</table>
+
+### University of Bristol
+Msci Chemistry with Scientific computing 
+
+Masters project: Efficient calculation of absorption cross sections for volatile organic compounds with representative sampling
+
+Modules:
+
+| Year | Core Chemistry | Scientific Computing |
+|------|----------------|----------------------|
+| 1    | Building blocks <br>Maths for Chemistry<br>Into practical chemistry | Intro to Scientific computing<br>Intro to Data science|
+| 2    | Core concepts <br>Models and predictions<br>Intermediate practical chemistry| Intermediate Scientific computing <br>Intermediate Data science       |
+| 3    | Art of Chemistry <br>Advanced practical chemistry <br> Group programming project | Advanced Scientific computing <br> Advanced data science|
+| 4    | Special Topics in current research <br> Independent research project| Special core Software engineering and High powered computing <br> AI and Deep learning        |
 
 Thanks for reading!
